@@ -8,3 +8,30 @@
 
 **Link(s) to work**
 None yet.
+
+### Day 2: January 28, 2017 Saturday
+
+**Today's Progress**: Messed with CSS on my website a little trying to get things organized.
+
+**Thoughts** What if I just use Bootstrap? 
+
+**Link(s) to work**
+http://radeskys.com
+
+### Day 3: January 29, 2017 Sunday
+
+**Today's Progress**: Inserted Bootstrap into my code and things are starting to look better (still in progress).
+
+**Thoughts** These bar links just won't get centered. Y u no get centered?!
+
+**Link(s) to work**
+http://radeskys.com
+
+### Day 4: January 30, 2017 Monday
+
+**Today's Progress**: Bootstrap journey continues. Work and life getting in the way, but won't be stopping now!
+
+**Thoughts** ...
+
+**Link(s) to work**
+http://radeskys.com
