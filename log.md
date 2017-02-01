@@ -35,3 +35,12 @@ http://radeskys.com
 
 **Link(s) to work**
 http://radeskys.com
+
+### Day 5: January 31, 2017 Tuesday
+
+**Today's Progress**: Started FreeCodeCamp's jQuery section (reviewing) and adding some of the features to my site.
+
+**Thoughts** End of the the month, end of a section.
+
+**Link(s) to work**
+http://radeskys.com
