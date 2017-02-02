@@ -44,3 +44,12 @@ http://radeskys.com
 
 **Link(s) to work**
 http://radeskys.com
+
+### Day 6: February 1, 2017 Wednesday
+
+**Today's Progress**: Switched website's style (mostly color).
+
+**Thoughts** A new month begins.
+
+**Link(s) to work**
+http://radeskys.com
