@@ -53,3 +53,12 @@ http://radeskys.com
 
 **Link(s) to work**
 http://radeskys.com
+
+### Day 7: February 2, 2017 Thursday
+
+**Today's Progress**: Finished FreeCodeCamp's jQuery section.
+
+**Thoughts** Tired...
+
+**Link(s) to work**
+None today.
