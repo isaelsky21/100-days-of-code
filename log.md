@@ -71,3 +71,12 @@ None today.
 
 **Link(s) to work**
 http://codepen.io/isaelsky21/full/mRKWpz/
+
+### Day 9: February 5, 2017 Sunday
+
+**Today's Progress**: Working on my website. 
+
+**Thoughts** It's a great thing we have the internet to aid us!
+
+**Link(s) to work**
+None today.
