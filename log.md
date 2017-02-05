@@ -62,3 +62,12 @@ http://radeskys.com
 
 **Link(s) to work**
 None today.
+
+### Day 8: February 4, 2017 Saturday
+
+**Today's Progress**: Finished "Tribute Page" Project on FCC. 
+
+**Thoughts** Missed a day, but made up the next :)
+
+**Link(s) to work**
+http://codepen.io/isaelsky21/full/mRKWpz/
