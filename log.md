@@ -80,3 +80,12 @@ http://codepen.io/isaelsky21/full/mRKWpz/
 
 **Link(s) to work**
 None today.
+
+### Day 10: February 6, 2017 Monday
+
+**Today's Progress**: Watched some videos on Rob's course.
+
+**Thoughts** Slow day.
+
+**Link(s) to work**
+None today.
