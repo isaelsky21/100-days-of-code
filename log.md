@@ -89,3 +89,12 @@ None today.
 
 **Link(s) to work**
 None today.
+
+### Day 11: February 7, 2017 Tuesday
+
+**Today's Progress**: Attempted FCC's second project (Portfolio).
+
+**Thoughts** So painful to get scrollable navigation bar..
+
+**Link(s) to work**
+http:radeskys.com
