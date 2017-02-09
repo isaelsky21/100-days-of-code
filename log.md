@@ -98,3 +98,12 @@ None today.
 
 **Link(s) to work**
 http:radeskys.com
+
+### Day 12: February 8, 2017 Wednesday
+
+**Today's Progress**: Still working on portfolio.
+
+**Thoughts** Almost got it.
+
+**Link(s) to work**
+http:radeskys.com
