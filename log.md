@@ -107,3 +107,12 @@ http:radeskys.com
 
 **Link(s) to work**
 http:radeskys.com
+
+### Day 13: February 9, 2017 Thursday
+
+**Today's Progress**: Made a lot of improvements to my website.
+
+**Thoughts** And very close to completing Portfolio project (yet -_-).
+
+**Link(s) to work**
+http:radeskys.com
