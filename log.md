@@ -116,3 +116,12 @@ http:radeskys.com
 
 **Link(s) to work**
 http:radeskys.com
+
+### Day 14: February 10, 2017 Friday
+
+**Today's Progress**: Started Javascript section on TCWDC 2.0.
+
+**Thoughts** Hungry :S.
+
+**Link(s) to work**
+-------------------
