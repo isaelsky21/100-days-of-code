@@ -125,3 +125,12 @@ http:radeskys.com
 
 **Link(s) to work**
 -------------------
+
+### Day 15: February 12, 2017 Sunday
+
+**Today's Progress**: Javascript basics for the day.
+
+**Thoughts** Missed a day..
+
+**Link(s) to work**
+-------------------
