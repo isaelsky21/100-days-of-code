@@ -134,3 +134,12 @@ http:radeskys.com
 
 **Link(s) to work**
 -------------------
+
+### Day 16: February 14, 2017 Tuesday
+
+**Today's Progress**: Working through Javascript section.
+
+**Thoughts** Wonder why I can't make the img show up.
+
+**Link(s) to work**
+-------------------
