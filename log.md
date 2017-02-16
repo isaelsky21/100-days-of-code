@@ -143,3 +143,12 @@ http:radeskys.com
 
 **Link(s) to work**
 -------------------
+
+### Day 17: February 15, 2017 Wednesday
+
+**Today's Progress**: Working on my own Reaction Test (game) variation.
+
+**Thoughts** It's harder than I thought. What to expect from JS..
+
+**Link(s) to work**
+-------------------
