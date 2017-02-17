@@ -152,3 +152,12 @@ http:radeskys.com
 
 **Link(s) to work**
 -------------------
+
+### Day 18: February 16, 2017 Thursday
+
+**Today's Progress**: Did my best. Reaction game currently not fully working. Will revise later. 
+
+**Thoughts** Took some time to have a go at the CCA Javascript Exam and passed!
+
+**Link(s) to work**
+http://radeskys.com/projects/reaction_tester/main-screen.html
