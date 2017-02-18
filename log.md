@@ -161,3 +161,12 @@ http:radeskys.com
 
 **Link(s) to work**
 http://radeskys.com/projects/reaction_tester/main-screen.html
+
+### Day 19: February 17, 2017 Friday
+
+**Today's Progress**: Going through jQuery section on TCWDC.
+
+**Thoughts** Not many.
+
+**Link(s) to work**
+None.
