@@ -170,3 +170,12 @@ http://radeskys.com/projects/reaction_tester/main-screen.html
 
 **Link(s) to work**
 None.
+
+### Day 20: February 19, 2017 Sunday
+
+**Today's Progress**: Applied Javascript and jQuery to my site and spent about 11 hours working on it.. Also worked on fixing/continuing Reaction Tester game and made Great progress!
+
+**Thoughts** So glad I've figured so much up to now. Learning a great deal along the way.
+
+**Link(s) to work**
+http://radeskys.com and http://radeskys.com/projects/reaction_tester/main-screen.html for the game.
