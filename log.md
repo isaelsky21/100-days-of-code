@@ -179,3 +179,12 @@ None.
 
 **Link(s) to work**
 http://radeskys.com and http://radeskys.com/projects/reaction_tester/main-screen.html for the game.
+
+### Day 21: February 20, 2017 Monday
+
+**Today's Progress**: Watched jQuery section videos.
+
+**Thoughts** ...
+
+**Link(s) to work**
+--------------------
