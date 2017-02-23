@@ -188,3 +188,12 @@ http://radeskys.com and http://radeskys.com/projects/reaction_tester/main-screen
 
 **Link(s) to work**
 --------------------
+
+### Day 22: February 22, 2017 Wednesday
+
+**Today's Progress**: Ajax introduction on jQuery section.
+
+**Thoughts** Happy ones.
+
+**Link(s) to work**
+--------------------
