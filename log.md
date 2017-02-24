@@ -197,3 +197,12 @@ http://radeskys.com and http://radeskys.com/projects/reaction_tester/main-screen
 
 **Link(s) to work**
 --------------------
+
+### Day 23: February 23, 2017 Thursday
+
+**Today's Progress**: Played around with Responsive design.
+
+**Thoughts** Firefox tells me my scroll effect is not recommended, but Chrome is alright with it..
+
+**Link(s) to work**
+http://radeskys.com
