@@ -206,3 +206,12 @@ http://radeskys.com and http://radeskys.com/projects/reaction_tester/main-screen
 
 **Link(s) to work**
 http://radeskys.com
+
+### Day 24: February 26, 2017 Sunday
+
+**Today's Progress**: Made my website fully responsive and added some things.
+
+**Thoughts** Now I can finally move on to the next one!
+
+**Link(s) to work**
+http://radeskys.com
