@@ -215,3 +215,12 @@ http://radeskys.com
 
 **Link(s) to work**
 http://radeskys.com
+
+### Day 25: February 27, 2017 Monday
+
+**Today's Progress**: Started game development course on Udemy.
+
+**Thoughts** ...
+
+**Link(s) to work**
+...
