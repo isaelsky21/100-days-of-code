@@ -224,3 +224,12 @@ http://radeskys.com
 
 **Link(s) to work**
 ...
+
+### Day 26: March 1, 2017 Wednesday
+
+**Today's Progress**: Reviewed Javascript basics on FreeCodeCamp.
+
+**Thoughts** Thinking of using Objects for some projects..
+
+**Link(s) to work**
+...
