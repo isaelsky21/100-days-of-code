@@ -233,3 +233,12 @@ http://radeskys.com
 
 **Link(s) to work**
 ...
+
+### Day 27: March 2, 2017 Thursday
+
+**Today's Progress**: Went throught Regex lecture on TCWDC.
+
+**Thoughts** First played with Regex on Python.
+
+**Link(s) to work**
+...
