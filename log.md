@@ -251,3 +251,12 @@ http://radeskys.com
 
 **Link(s) to work**
 ...
+
+### Day 29: March 5, 2017 Sunday
+
+**Today's Progress**: Nested Objects and Arrays on freeCodeCamp.
+
+**Thoughts** ...
+
+**Link(s) to work**
+...
