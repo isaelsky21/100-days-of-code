@@ -260,3 +260,12 @@ http://radeskys.com
 
 **Link(s) to work**
 ...
+
+### Day 30: March 6, 2017 Monday
+
+**Today's Progress**: jQuery UI on TCWDC.
+
+**Thoughts** ...
+
+**Link(s) to work**
+...
