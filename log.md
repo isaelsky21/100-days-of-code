@@ -269,3 +269,12 @@ http://radeskys.com
 
 **Link(s) to work**
 ...
+
+### Day 31: March 8, 2017 Wednesday
+
+**Today's Progress**: Reading different FCC Medium emails.
+
+**Thoughts** The ethical post about Uber, Volkswagen surprised me..
+
+**Link(s) to work**
+...
