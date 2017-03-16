@@ -278,3 +278,12 @@ http://radeskys.com
 
 **Link(s) to work**
 ...
+
+### Day 32: March 15, 2017 Wednesday
+
+**Today's Progress**: Completed TCWDC jQuery Project: Code Player.
+
+**Thoughts** A week without committing or tweeting.. Don't know if it's even legal for the #100DaysofCode challenge.
+
+**Link(s) to work**
+http://radeskys.com/projects/code_player/index.html
