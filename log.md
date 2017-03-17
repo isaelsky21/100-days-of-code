@@ -287,3 +287,12 @@ http://radeskys.com
 
 **Link(s) to work**
 http://radeskys.com/projects/code_player/index.html
+
+### Day 33: March 16, 2017 Thursday
+
+**Today's Progress**: Played around with Bootstrap 4.
+
+**Thoughts** Trying to accommodate pieces to replace Bootstrap 3's features in my mind..
+
+**Link(s) to work**
+...
