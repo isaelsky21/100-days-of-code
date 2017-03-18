@@ -296,3 +296,12 @@ http://radeskys.com/projects/code_player/index.html
 
 **Link(s) to work**
 ...
+
+### Day 34: March 17, 2017 Friday
+
+**Today's Progress**: Implementing Navbar classes and styles.
+
+**Thoughts** Forms are next.
+
+**Link(s) to work**
+http://radeskys.com/projects/landing_page/index.html
