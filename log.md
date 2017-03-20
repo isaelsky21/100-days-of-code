@@ -305,3 +305,12 @@ http://radeskys.com/projects/code_player/index.html
 
 **Link(s) to work**
 http://radeskys.com/projects/landing_page/index.html
+
+### Day 35: March 19, 2017 Sunday
+
+**Today's Progress**: Learned about Forms, Tables, Jumbotron, Alerts and Progress bars.
+
+**Thoughts** ...
+
+**Link(s) to work**
+...
