@@ -314,3 +314,12 @@ http://radeskys.com/projects/landing_page/index.html
 
 **Link(s) to work**
 ...
+
+### Day 36: March 23, 2017 Thursday
+
+**Today's Progress**: Completed Landing Page Project [TCWDC].
+
+**Thoughts** Next is Wordpress.
+
+**Link(s) to work**
+http://radeskys.com/projects/landing_page/index.html
