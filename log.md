@@ -323,3 +323,11 @@ http://radeskys.com/projects/landing_page/index.html
 
 **Link(s) to work**
 http://radeskys.com/projects/landing_page/index.html
+
+### Day 37: March 25, 2017 Saturday
+
+**Today's Progress**: Completed Wordpress Section (Not Challenge).
+
+**Thoughts** Don't really like Wordpress much.
+
+**Link(s) to work**
