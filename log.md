@@ -331,3 +331,13 @@ http://radeskys.com/projects/landing_page/index.html
 **Thoughts** Don't really like Wordpress much.
 
 **Link(s) to work**
+...
+
+### Day 38: March 26, 2017 Sunday
+
+**Today's Progress**: Began PHP Section [TCWDC].
+
+**Thoughts** Can't use + Operator to concatenate.. Period it is, then.
+
+**Link(s) to work**
+...
