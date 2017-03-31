@@ -341,3 +341,12 @@ http://radeskys.com/projects/landing_page/index.html
 
 **Link(s) to work**
 ...
+
+### Day 39: March 30, 2017 Thursday
+
+**Today's Progress**: Going over PHP basics [TCWDC].
+
+**Thoughts** ...
+
+**Link(s) to work**
+...
