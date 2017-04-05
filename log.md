@@ -350,3 +350,12 @@ http://radeskys.com/projects/landing_page/index.html
 
 **Link(s) to work**
 ...
+
+### Day 40: April 4, 2017 Tuesday
+
+**Today's Progress**: Still on PHP with the Loops [TCWDC].
+
+**Thoughts** ...
+
+**Link(s) to work**
+...
