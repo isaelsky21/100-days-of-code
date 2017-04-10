@@ -359,3 +359,12 @@ http://radeskys.com/projects/landing_page/index.html
 
 **Link(s) to work**
 ...
+
+### Day 41: April 9, 2017 Sunday
+
+**Today's Progress**: Learned about $_GET variable [TCWDC].
+
+**Thoughts** Next is POST
+
+**Link(s) to work**
+...
