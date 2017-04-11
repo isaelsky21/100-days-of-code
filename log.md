@@ -368,3 +368,12 @@ http://radeskys.com/projects/landing_page/index.html
 
 **Link(s) to work**
 ...
+
+### Day 42: April 10, 2017 Monday
+
+**Today's Progress**: Messed with $_POST trying to send mail. [TCWDC].
+
+**Thoughts** ...
+
+**Link(s) to work**
+...
