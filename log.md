@@ -377,3 +377,12 @@ http://radeskys.com/projects/landing_page/index.html
 
 **Link(s) to work**
 ...
+
+### Day 43: April 12, 2017 Wednesday
+
+**Today's Progress**: Integrated PHP on my website (radeskys.com). [TCWDC].
+
+**Thoughts** Need some tweaks but at least I did it and put it out there :)
+
+**Link(s) to work**
+http://radeskys.com/#contact-div
