@@ -386,3 +386,12 @@ http://radeskys.com/projects/landing_page/index.html
 
 **Link(s) to work**
 http://radeskys.com/#contact-div
+
+### Day 44: April 13, 2017 Thursday
+
+**Today's Progress**: Completed PHP Section and Project (almost) [TCWDC].
+
+**Thoughts** Next is MySQL :-D
+
+**Link(s) to work**
+http://radeskys.com/projects/weather_scraper/index.php
