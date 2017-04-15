@@ -395,3 +395,12 @@ http://radeskys.com/#contact-div
 
 **Link(s) to work**
 http://radeskys.com/projects/weather_scraper/index.php
+
+### Day 45: April 14, 2017 Friday
+
+**Today's Progress**: Worked on Website and Contact Form [TCWDC].
+
+**Thoughts** ...
+
+**Link(s) to work**
+...
