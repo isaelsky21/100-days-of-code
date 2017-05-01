@@ -404,3 +404,12 @@ http://radeskys.com/projects/weather_scraper/index.php
 
 **Link(s) to work**
 ...
+
+### Day 46: April 30, 2017 Sunday
+
+**Today's Progress**: Started MySQL Section [TCWDC].
+
+**Thoughts** ...
+
+**Link(s) to work**
+...
